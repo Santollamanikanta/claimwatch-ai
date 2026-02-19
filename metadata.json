@@ -1,0 +1,5 @@
+{
+  "name": "ClaimWatch AI",
+  "description": "An intelligent Insurance Fraud Detection platform that analyzes claim details, policy history, customer behavior, and supporting documents using AI to detect suspicious patterns and provide actionable insights.",
+  "requestFramePermissions": []
+}
