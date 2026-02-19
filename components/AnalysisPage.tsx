@@ -368,7 +368,7 @@ ${result.riskBreakdown}
                     </motion.div>
                 )}
             </AnimatePresence>
-        </div>
+        </motion.div>
     );
 };
 
